@@ -1,0 +1,27 @@
+
+.buttonContainer{
+    width: 540px;
+    height: 72px;
+    display: flex;
+    flex-direction:row;
+    position: relative;
+}
+
+.buttonNext{ 
+    position:absolute;
+    bottom: 15px; 
+    right:0; 
+    width: 174px;
+    height: 46px;
+    padding:0 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+    background-color:#F67599;
+    border: none;
+    color:white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}

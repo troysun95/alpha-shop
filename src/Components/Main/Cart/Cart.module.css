@@ -1,0 +1,7 @@
+.cartContainer{
+    width: 440px;
+    height:492px;
+    padding: 2rem;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
