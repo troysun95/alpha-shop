@@ -8,7 +8,7 @@
 ## 如何開始
  1. 確認已安裝 node.js 與 npm
  2. clone 專案
- 3. 透過 終端機 進入資料夾，並輸入 `git install`
+ 3. 透過 終端機 進入資料夾，並輸入 `npm install`
  4. 安裝完畢後，繼續輸入 `npm start`
  5. 專案將於瀏覽器(網址：http://localhost:3000/) 開啟頁面，並渲染畫面
  6. 若需暫停，請於終端機輸入 `ctrl+c`
